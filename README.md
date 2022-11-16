@@ -1,4 +1,4 @@
-Hi, this is @barandenizkorkmaz. 
+Hi, welcome to my repository!
 I am currently pursuing my Master's degree in Computer Science in Technical University of Munich.
 In the meantime, I am an ML Engineer as a working student at Huawei Technologies in Domain Generalization on Person Re-Identification.
 I studied my Bachelor's in Computer Engineering in Bogazici University, Istanbul.
