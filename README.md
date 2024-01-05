@@ -1,15 +1,70 @@
-Hi, welcome to my repository!
-I am currently pursuing my Master's degree in Computer Science in Technical University of Munich.
-In the meantime, I am DevOps Engineer as a working student at Infineon Technologies.
-I studied my Bachelor's in Computer Engineering in Bogazici University, Istanbul.
-I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
-In my free times, I enjoy Football, Formula 1, Chess, Guitar, and Movies.
-You can feel free to reach me via [LinkedIn](https://www.linkedin.com/in/barandenizkorkmaz/).
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/barandenizkorkmaz/" target="blank">
+Baran Deniz Korkmaz</a></h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=barandenizkorkmaz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barandenizkorkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="barandenizkorkmaz" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=barandenizkorkmaz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p align="center">
 
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/barandenizkorkmaz/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/barandenizkorkmaz">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+      </div>
+
+</p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- :mortar_board: I am currently pursuing my Master's degree in Computer Science in <a href="https://www.tum.de/en/" target="blank">Technical University of Munich</a>.
+
+- :computer: I am DevOps Engineer as a working student at <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>.
+
+- :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
+
+- :mag_right: I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
+
+- 🥳 In my free times, I enjoy Football, Formula 1, Chess, Guitar, and Movies.
+
+- :envelope: Feel free to reach me via **bdkorkmazdeveloper@gmail.com**!
+
+- 📄 For my current <a href="https://github.com/100rabhcsmc/barandenizkorkmaz" target="blank">Resume</a>
+<br/>
+
+<!--
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+-->
+
+<img src="https://myreadme.vercel.app/api/embed/barandenizkorkmaz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
 barandenizkorkmaz/barandenizkorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
