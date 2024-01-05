@@ -32,7 +32,7 @@ Baran Deniz Korkmaz</a></h1>
 
 - :envelope: Feel free to reach me via **bdkorkmazdeveloper@gmail.com**!
 
-- 📄 For my current <a href="https://github.com/100rabhcsmc/barandenizkorkmaz" target="blank">Resume</a>
+- 📄 For a more detailed background about me, check out my <a href="https://github.com/barandenizkorkmaz/me/blob/main/Resume.pdf" target="blank">resume</a>!
 <br/>
 
 <!--
