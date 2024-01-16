@@ -65,7 +65,6 @@ Baran Deniz Korkmaz</a></h1>
 -->
 
 <img src="https://github-readme-stats-one-umber-59.vercel.app/api?username=barandenizkorkmaz&show_icons=true&theme=dark" alt="reimaginedreadme" />
-![Top Langs](https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz\&layout=compact)
 
 <!---
 barandenizkorkmaz/barandenizkorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
