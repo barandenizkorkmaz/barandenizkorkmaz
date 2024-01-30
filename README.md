@@ -64,12 +64,17 @@ Baran Deniz Korkmaz</a></h1>
 </p>
 -->
 
-<div class='container'>
-<img style="height: 100%; width: 55%;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api?username=barandenizkorkmaz&show_icons=true&theme=ambient_gradient&rank_icon=percentile" />
-&nbsp;
-&nbsp;
-<img style="height: 100%; width: 40%;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz&layout=compact&langs_count=6&theme=ambient_gradient" /></div>
-</div>
+<p align="right">	
+	<div align="center" class='container' style="display: flex;">
+	    <img style="height: 250px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api?username=barandenizkorkmaz&show_icons=true&theme=ambient_gradient&rank_icon=percentile" />
+	    &nbsp;
+	    <img style="height: 250px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz&layout=compact&langs_count=12&theme=ambient_gradient" />
+	</div>
+</p>
+
+
+
+
 
 
 
