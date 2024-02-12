@@ -66,9 +66,9 @@ Baran Deniz Korkmaz</a></h1>
 
 <p align="right">	
 	<div align="center" class='container' style="display: flex;">
-	    <img style="height: 200px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api?username=barandenizkorkmaz&show_icons=true&rank_icon=github" />
+	    <img style="height: 200px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api?username=barandenizkorkmaz&show_icons=true&rank_icon=github&theme=default" />
 	    &nbsp;
-	    <img style="height: 200px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz&layout=compact&langs_count=8" />
+	    <img style="height: 200px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz&layout=compact&langs_count=8&theme=default" />
 	</div>
 </p>
 
