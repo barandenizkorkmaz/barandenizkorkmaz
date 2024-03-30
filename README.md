@@ -22,7 +22,7 @@ Baran Deniz Korkmaz</a></h1>
 
 - :mortar_board: I am currently pursuing my Master's degree in Computer Science in <a href="https://www.tum.de/en/" target="blank">Technical University of Munich</a>.
 
-- :computer: I am DevOps Engineer as a working student at <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>.
+- :computer: I am Software Engineer as a working student at <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>.
 
 - :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
 
