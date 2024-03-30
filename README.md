@@ -24,6 +24,8 @@ Baran Deniz Korkmaz</a></h1>
 
 - :computer: I am Software Engineer as a working student at <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>.
 
+- :computer: Previously at <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, <a href="https://www.pointr.tech/" target="blank">Pointr</a>, and <a href="https://www.sas.com/en_us/home.html" target="blank">SAS Institute</a>.
+
 - :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
 
 - :mag_right: I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
@@ -71,12 +73,6 @@ Baran Deniz Korkmaz</a></h1>
 	    <img style="height: 200px; width: auto;" class="img" src="https://github-readme-stats-one-umber-59.vercel.app/api/top-langs/?username=barandenizkorkmaz&layout=compact&langs_count=8&theme=default" />
 	</div>
 </p>
-
-
-
-
-
-
 
 <!---
 barandenizkorkmaz/barandenizkorkmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
