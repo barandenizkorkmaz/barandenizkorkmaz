@@ -24,9 +24,9 @@ Baran Deniz Korkmaz</a></h1>
 
 - :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
 
-- :computer: I am currently a Software Engineer as working student at <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>.
+- :computer: I am currently doing my Master's Thesis at <a href="https://www.siemens.com/global/en.html" target="blank">Siemens AG</a>.
 
-- :computer: Previously at <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, <a href="https://www.pointr.tech/" target="blank">Pointr</a>, and <a href="https://www.sas.com/en_us/home.html" target="blank">SAS Institute</a>.
+- :computer: Previously at  <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>, <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, <a href="https://www.pointr.tech/" target="blank">Pointr</a>, and <a href="https://www.sas.com/en_us/home.html" target="blank">SAS Institute</a>.
 
 - :mag_right: I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
 
