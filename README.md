@@ -20,13 +20,13 @@ Baran Deniz Korkmaz</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- :mortar_board: I am currently pursuing my Master's degree in Computer Science in <a href="https://www.tum.de/en/" target="blank">Technical University of Munich</a>.
+- :computer: I am currently working at <a href="https://www.netlight.com" target="blank">Netlight Consulting</a> as an IT Consultant.
+
+- :mortar_board: I obtained my Master's degree in Computer Science in <a href="https://www.tum.de/en/" target="blank">Technical University of Munich</a>.
 
 - :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
-
-- :computer: I am currently doing my Master's Thesis at <a href="https://www.siemens.com/global/en.html" target="blank">Siemens AG</a>.
-
-- :computer: Previously at  <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>, <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, <a href="https://www.pointr.tech/" target="blank">Pointr</a>, and <a href="https://www.sas.com/en_us/home.html" target="blank">SAS Institute</a>.
+			
+- :computer: Previously at  <a href="https://www.siemens.com/global/en.html" target="blank">Siemens AG</a>, <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>, <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, and <a href="https://www.pointr.tech/" target="blank">Pointr</a>.
 
 - :mag_right: I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
 
