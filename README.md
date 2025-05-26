@@ -20,7 +20,7 @@ Baran Deniz Korkmaz</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- :computer: I am currently working at <a href="https://aws.amazon.com/" target="blank">Amazon Web Services</a> as a Software Development Engineer.
+- :computer: I am currently working as a Software Development Engineer at <a href="https://aws.amazon.com/" target="blank">Amazon Web Services (AWS)</a>.
 
 - :mortar_board: M.Sc. in Computer Science, <a href="https://www.tum.de/en/" target="blank">Technical University of Munich (TUM)</a>.
 
