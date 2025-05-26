@@ -32,9 +32,9 @@ Baran Deniz Korkmaz</a></h1>
 
 - 🥳 In my free times, I enjoy Football, Basketball, E-Sports, Chess, Playing Guitar, Movies and F1.
 
-- :envelope: Feel free to reach me via **bdkorkmazdeveloper@gmail.com**!
+- :envelope: Feel free to reach out to me at **bdkorkmazdeveloper@gmail.com**!
 
-- 📄 For a more detailed background about me, check out my <a href="https://github.com/barandenizkorkmaz/barandenizkorkmaz/blob/main/docs/Resume.pdf" target="blank">resume</a>!
+- 📄 Want to learn more about me? Take a look at my <a href="https://github.com/barandenizkorkmaz/barandenizkorkmaz/blob/main/docs/Resume.pdf" target="blank">resume</a>!
 <br/>
 
 <!--
