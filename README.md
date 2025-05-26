@@ -20,17 +20,17 @@ Baran Deniz Korkmaz</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- :computer: I am currently working at <a href="https://www.netlight.com" target="blank">Netlight Consulting</a> as an IT Consultant.
+- :computer: I am currently working at <a href="https://aws.amazon.com/" target="blank">Amazon Web Services</a> as a Software Development Engineer.
 
-- :mortar_board: I obtained my Master's degree in Computer Science in <a href="https://www.tum.de/en/" target="blank">Technical University of Munich</a>.
+- :mortar_board: M.Sc. in Computer Science, <a href="https://www.tum.de/en/" target="blank">Technical University of Munich (TUM)</a>.
 
-- :mortar_board: I studied my Bachelor's in Computer Engineering in <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
+- :mortar_board: B.Sc. in Computer Engineering, <a href="https://bogazici.edu.tr/" target="blank">Boğaziçi University</a>.
 			
-- :computer: Previously at  <a href="https://www.siemens.com/global/en.html" target="blank">Siemens AG</a>, <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>, <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, and <a href="https://www.pointr.tech/" target="blank">Pointr</a>.
+- :computer: Previously at  <a href="https://www.huawei.com/en/" target="blank">Huawei Technologies</a>, <a href="https://www.siemens.com/global/en.html" target="blank">Siemens AG</a>, <a href="https://www.infineon.com/" target="blank">Infineon Technologies AG</a>, <a href="https://www.netlight.com/" target="blank">Netlight Consulting</a>, and <a href="https://www.pointr.tech/" target="blank">Pointr</a>.
 
-- :mag_right: I am interested in Software Engineering (Software Development, System Design, Cloud Information Systems) , Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain.
+- :mag_right: I am interested in Software Engineering—including Software Development, System Design, and Cloud Information Systems—as well as Artificial Intelligence, Computer Vision, Quantum Computing, and Blockchain technologies.
 
-- 🥳 In my free times, I enjoy Football, Formula 1, Chess, Guitar, and Movies.
+- 🥳 In my free times, I enjoy Football, Basketball, E-Sports, Chess, Playing Guitar, Movies and F1.
 
 - :envelope: Feel free to reach me via **bdkorkmazdeveloper@gmail.com**!
 
